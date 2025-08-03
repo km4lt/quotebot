@@ -45,5 +45,5 @@ The purpose of Quotebot is to practice event-driven Discord bot development and 
 4. Run the bot:
 
     ```bash
-    python quotebot.py
+    python main.py
     ```
