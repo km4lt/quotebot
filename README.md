@@ -24,8 +24,7 @@ The purpose of Quotebot is to practice event-driven Discord bot development and 
 ## Libraries Used
 
 - **discord.py** — For Discord bot events and message handling  
-- **Pillow / OpenCV / other** — Used inside `image_generator.py` for image generation (assumed)  
-- **os / shutil** — Likely used for cleanup logic
+- **Pillow / OpenCV / other** — Used inside `image_generator.py` for image generation
 
 ## Setup and Installation
 
