@@ -21,18 +21,6 @@ The purpose of Quotebot is to practice event-driven Discord bot development and 
 4. The bot sends the image as a file.
 5. `cleanup_image` deletes the temporary file.
 
-## Example Usage
-
-- Reply to a message:
-  ```
-  @Quotebot
-  ```
-
-- Bot responds with a custom quote image like:
-  ```
-  [Image showing friend's message and avatar]
-  ```
-
 ## Libraries Used
 
 - **discord.py** — For Discord bot events and message handling  
